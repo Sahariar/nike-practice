@@ -7,9 +7,37 @@ body{
 }
 .font-gf-basu{
     font-family: 'Bebas Neue', cursive; 
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 80px;
 }
 /* Global Css */
 
-.header-area{
+.header-area,.navbar{
     background-color: #FFF9F4;
+}
+.text-textpen{
+    color: #FA804C;
+}
+.btn-nike-pri{
+    background-color: #FA804C;
+    color: #fff;
+}
+.btn-nike-pri svg{
+    width: 24px;
+    height: 24px;
+}
+.bg-gray{
+    background-color: #F1F1F1;
+}
+.img-wrapper {
+    max-height: 356px;
+}
+.price{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
 }
