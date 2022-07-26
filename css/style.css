@@ -41,3 +41,10 @@ font-weight: 900;
 font-size: 36px;
 line-height: 42px;
 }
+.icon-area {
+    width: 64px;
+    padding: 5px;
+}
+.fit-area{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
