@@ -1,50 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;500;700;900&display=swap");
 /* font-family: 'Bebas Neue', cursive;
 font-family: 'Roboto', sans-serif; */
 
-body{
-    font-family: 'Roboto', sans-serif;
+body {
+	font-family: "Roboto", sans-serif;
 }
-.font-gf-basu{
-    font-family: 'Bebas Neue', cursive; 
-font-style: normal;
-font-weight: 700;
-font-size: 80px;
-line-height: 80px;
+.font-gf-basu {
+	font-family: "Bebas Neue", cursive;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 80px;
+	line-height: 80px;
 }
 /* Global Css */
 
-.header-area,.navbar{
-    background-color: #FFF9F4;
+.header-area,
+.navbar {
+	background-color: #fff9f4;
 }
-.text-textpen{
-    color: #FA804C;
+.text-textpen {
+	color: #fa804c;
 }
-.btn-nike-pri{
-    background-color: #FA804C;
-    color: #fff;
+.btn-nike-pri {
+	background-color: #fa804c;
+	color: #fff;
 }
-.btn-nike-pri svg{
-    width: 24px;
-    height: 24px;
+.btn-nike-pri svg {
+	width: 24px;
+	height: 24px;
 }
-.bg-gray{
-    background-color: #F1F1F1;
+.bg-gray {
+	background-color: #f1f1f1;
 }
 .img-wrapper {
-    max-height: 356px;
+	max-height: 356px;
 }
-.price{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 36px;
-line-height: 42px;
+.price {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
 }
 .icon-area {
-    width: 64px;
-    padding: 5px;
+	width: 64px;
+	padding: 5px;
 }
-.fit-area{
-    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+.fit-area {
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
 }
